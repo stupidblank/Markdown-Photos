@@ -1,6 +1,6 @@
 ![开头](https://raw.githubusercontent.com/stupidblank/Markdown-Photos/main/oneplus%20rom/illust_68201490_20240129_063008.png)
 
->已经临近2024年2月份了 Nameless的A14也要来了 所以来一期8系刷nameless的图文教程 其他机型以及其他类原Rom大致通用🥳
+>已经临近2024年2月份了 Nameless的A14也要来了 所以来一期8系刷nameless的图文教程 其他机型以及其他类原Rom大致通用
 
 ---
 
