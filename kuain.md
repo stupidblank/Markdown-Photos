@@ -79,7 +79,7 @@
 
 - 浏览你解压的ROM包
 
-![unpack](https://raw.githubusercontent.com/stupidblank/Markdown-Photos/main/oneplus%20rom/Unpack.png)
+![unpack](https://raw.githubusercontent.com/stupidblank/Markdown-Photos/main/oneplus%20rom/Partition%20information.png)
 
 - 点击分区信息
 选择dtbo.img、vbmeta.img、vbmeta_system.img（可不提）、recovery.img、boot.img
