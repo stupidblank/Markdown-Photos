@@ -63,6 +63,7 @@
 ![payload](https://raw.githubusercontent.com/stupidblank/Markdown-Photos/main/oneplus%20rom/payload.bin.png)
 
 提取payload.bin 中的
+
 （8系含9R） dtbo.img、vbmeta.img、vbmeta_system.img（可不提）、recovery.img、boot.img文件
 
 （9系不含9R） dtbo.img、vendor_boot.img、boot.img
