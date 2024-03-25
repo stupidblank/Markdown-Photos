@@ -111,7 +111,7 @@
 进入fastboot模式
 
 1. 刷入boot
-`fastboot flash boot "把提取的boot.img文件拖入cmd窗口中"`
+>`fastboot flash boot "把提取的boot.img文件拖入cmd窗口中"`
 
 ![drag](https://raw.githubusercontent.com/stupidblank/Markdown-Photos/main/oneplus%20rom/drag.png)
 
@@ -125,12 +125,14 @@
 
 2. 刷入vbmeta （解除VAB）若官方提供 则直接刷入官方即可
 与刷入boot同理 
-`fastboot flash vbmeta "拖入提取的vbmeta.img"`
+>`fastboot flash vbmeta "拖入提取的vbmeta.img"`
+
 3. 刷入dtbo
 同理
-`fastboot flash dtbo "拖入提取的dtbo.img"`
+>`fastboot flash dtbo "拖入提取的dtbo.img"`
+
 4. 刷入 rec （若官方提供直接刷入官方 nameless官方提供和提取的是一样的）
-`fastboot flash recovery "拖入提取的recovery.img"`
+>`fastboot flash recovery "拖入提取的recovery.img"`
 
 >如果你提的img文件位置都在platform-tools 目录，可以直接
 ```
