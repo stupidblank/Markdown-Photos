@@ -64,7 +64,9 @@
 
 提取payload.bin 中的
 （8系含9R） dtbo.img、vbmeta.img、vbmeta_system.img（可不提）、recovery.img、boot.img文件
+
 （9系不含9R） dtbo.img、vendor_boot.img、boot.img
+
 ##### 以下教程基于8系制作 9系刷入文件有些不同 （故只附上基础教程）
 9系建议参考官方教程或其他教程
 
